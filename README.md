@@ -1,11 +1,5 @@
 # Quiz-Project
-- A Single HTML page. The user should not move from the page when answering the questions or getting the results.
-- A simple design that uses Tailwind / Tailwind elements.
-- A separate css file should be used for styling the page.
-- The quiz should consist of at least 5 multiple choice questions.
-- The quiz should process the users responses and produce a result at the end.
-- Questions not in use should be hidden.
-- User response could be either by selecting a radio button or clicking a picture link but should not use popup boxes or text entry.
-- The result should be hidden until the end.
-- Initial information about the quiz should be displayed when the user first opens the page. This should be hidden whilst the user answers questions and when the results are displayed.
-- Functions should be reused where possible.
+The quiz can take the form of “mostly a’s” type scoring (although this should be calculated
+automatically for the user rather than relying on them adding it up) or can use a more complex
+scoring system to calculate the result.
+
